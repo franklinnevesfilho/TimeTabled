@@ -1,5 +1,4 @@
-# TimeTabled - 
-*A static weekly itinerary template*
+# TimeTabled - *A static weekly itinerary template*
 
 by: **Franklin Neves Filho**
 
