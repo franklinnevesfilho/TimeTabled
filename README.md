@@ -1,10 +1,28 @@
-# Weekly Itinerary React Project
+# TimeTabled - 
+* A static weekly itinerary template *
 
-Welcome to the Weekly Itinerary React Demo project! This is a simple React application that helps you plan your weekly schedule and keep track of your activities.
-## Features
+by: **Franklin Neves Filho**
 
-- Create and manage a weekly itinerary.
-- Add, edit, and delete activities for each day of the week.
-- Organize activities by specifying the day, time, and location.
-- Visualize your weekly schedule in a simple user-interface.
+This web app: **Simply lists a weekly itinerary**
 
+Time spent: **2** hours spent in total
+
+## Notes
+
+This app was an introduction to using React, and being familar with it's layour compared to Angular.
+
+## License
+
+    Copyright [2023] [Franklin Neves Filho]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
